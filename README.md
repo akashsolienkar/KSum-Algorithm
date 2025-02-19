@@ -34,7 +34,7 @@ Running the Code
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone-https://github.com/akashsolienkar/KSum-Algorithm.git
 
 Navigate to the project directory:
 
